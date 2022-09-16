@@ -17,8 +17,8 @@ services:
     ports:
       - 3306:3306
     environment:
-      MYSQL_ROOT_PASSWORD: 'sangy@1995'
-      MYSQL_PASSWORD: 'sangy@1995'
+      MYSQL_ROOT_PASSWORD: 'sangy1995'
+      MYSQL_PASSWORD: 'sangy1995'
       MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
     restart: always
 
