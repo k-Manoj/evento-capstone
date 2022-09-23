@@ -1,6 +1,6 @@
 import axios from "axios";
 
-let baseURL = "http://54.204.69.223:8080";
+let baseURL = "http://34.192.219.72:8080";
 // let baseURL = "https://evento.stackroute.io";
 
 const headers = {
